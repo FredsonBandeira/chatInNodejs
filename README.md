@@ -7,10 +7,7 @@ Este projeto é uma aplicação de chat que permite que os usuários se conectem
 - [Visão Geral](#visão-geral)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Instalação](#instalação)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Visão Geral
 
